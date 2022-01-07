@@ -9,8 +9,6 @@
 
 body {
     background-image: linear-gradient(to right, var(--cor0), var(--cor1));
-    min-height: 100vh;
-    min-width: 100vh;
 }
 
 
