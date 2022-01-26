@@ -141,7 +141,7 @@ button:hover {
 
     }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 380px) {
     body {
             width: 95%;
             height: 100px;
@@ -151,7 +151,7 @@ button:hover {
 
         }
     h1::before {
-            left: 125px;
+            left: 150px;
         }
     input {
             width: 200px;
