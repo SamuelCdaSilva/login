@@ -106,3 +106,19 @@ button:hover {
     padding-bottom: 25px;
     padding-left: 20px;
     text-align: center; */
+
+@media screen and (max-width: 500px) {
+    body {
+        width: 95%;
+        height: 100px;
+    }
+    main {
+        width:60% 
+    }
+    h1::before {
+        left: 113px;
+    }
+    input {
+        width: 200px;
+    }
+}
