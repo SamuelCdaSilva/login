@@ -122,3 +122,20 @@ button:hover {
         width: 200px;
     }
 }
+
+@media screen and (max-width: 424px) {
+    body {
+        width: 95%;
+        height: 100px;
+    }
+    main {
+        width: 90%; 
+
+    }
+    h1::before {
+        left: 100px;
+    }
+    input {
+        width: 200px;
+    }
+}
