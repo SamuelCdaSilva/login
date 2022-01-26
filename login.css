@@ -130,31 +130,29 @@ button:hover {
     }
     main {
         width: 90%; 
-
     }
     h1::before {
         left: 100px;
     }
     input {
         width: 200px;
-    }
+        }
 
     }
 
 @media screen and (max-width: 380px) {
     body {
-            width: 95%;
-            height: 100px;
+        width: 95%;
+        height: 100px;
         }
     main {
-            width: 90%; 
-
+        width: 90%; 
         }
     h1::before {
-            left: 150px;
+        left: 150px;
         }
     input {
-            width: 200px;
+        width: 200px;
         }
 
     }
