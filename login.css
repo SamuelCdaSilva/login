@@ -138,4 +138,23 @@ button:hover {
     input {
         width: 200px;
     }
-}
+
+    }
+
+@media screen and (max-width: 375px) {
+    body {
+            width: 95%;
+            height: 100px;
+        }
+    main {
+            width: 90%; 
+
+        }
+    h1::before {
+            left: 125px;
+        }
+    input {
+            width: 200px;
+        }
+
+    }
