@@ -32,6 +32,7 @@ h1 {
     text-align: center;
 }
 
+/*
 h1::before {
     content: "";
     position: absolute;
@@ -42,6 +43,7 @@ h1::before {
     border-radius: 5px;
     background-image: linear-gradient(to right, var(--cor0), var(--cor1));
 }
+*/
 
 input {
     border-color: var(--cor1);
@@ -113,7 +115,7 @@ button:hover {
         height: 100px;
     }
     main {
-        width:60% 
+        width: 60%; 
     }
     h1::before {
         left: 115px;
@@ -123,36 +125,3 @@ button:hover {
     }
 }
 
-@media screen and (max-width: 424px) {
-    body {
-        width: 95%;
-        height: 100px;
-    }
-    main {
-        width: 90%; 
-    }
-    h1::before {
-        left: 100px;
-    }
-    input {
-        width: 200px;
-        }
-
-    }
-
-@media screen and (max-width: 375px) {
-    body {
-        width: 95%;
-        height: 100px;
-        }
-    main {
-        width: 90%; 
-        }
-    h1::before {
-        left: 122px;
-        }
-    input {
-        width: 200px;
-        }
-
-    }
