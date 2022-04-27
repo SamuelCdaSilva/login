@@ -1,5 +1,9 @@
-# Projeto-Login
-Uma simples página de login
+# Login
+Página de Login 📄
+
+Projeto realizado com o objetivo de criar uma simples página de login.
+
+Tecnologias utilizadas: HTML5 e CSS3.
 
 Site hospedado: https://samuelcdasilva.github.io/Projeto-Login/login.html#
 
