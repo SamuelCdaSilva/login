@@ -1,5 +1,5 @@
 # Login
-Página de Login 📄
+Página de Login :lock:
 
 Projeto realizado com o objetivo de criar uma simples página de login, podendo exercitar minhas habilidades.
 
