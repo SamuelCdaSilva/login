@@ -5,4 +5,6 @@ SPA de Login :lock:
 
 - Tecnologias utilizadas: __HTML5__ e __CSS3__ puro.
 ***
+### Situação do projeto: Finalizado :heavy_check_mark:
+***
 Página hospedada em: https://samuelcdasilva.github.io/login/login.html
