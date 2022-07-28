@@ -18,7 +18,7 @@ main {
     box-shadow: 3px 2px 5px #0000003d;
     padding: 10px;
     position: absolute;
-    height: 500px;
+    height: 540px;
     width: 400px;
     top: 50%;
     left: 50%;
@@ -28,8 +28,12 @@ main {
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     text-align: center;
+}
+
+[alt=dente] {
+    width: 120px;
 }
 
 /*
